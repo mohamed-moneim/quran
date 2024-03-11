@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/quran/static/css/main.e04d67fa.css",
-    "main.js": "/quran/static/js/main.30c4f376.js",
-    "static/js/787.c4ab1725.chunk.js": "/quran/static/js/787.c4ab1725.chunk.js",
-    "static/media/splashwallpaper.jpg": "/quran/static/media/splashwallpaper.c958e70d084f586a7dbf.jpg",
-    "static/media/splash2.jpg": "/quran/static/media/splash2.29db958d1ca3a1b127ba.jpg",
-    "index.html": "/quran/index.html",
-    "main.e04d67fa.css.map": "/quran/static/css/main.e04d67fa.css.map",
-    "main.30c4f376.js.map": "/quran/static/js/main.30c4f376.js.map",
-    "787.c4ab1725.chunk.js.map": "/quran/static/js/787.c4ab1725.chunk.js.map"
+    "main.css": "/static/css/main.f52da710.css",
+    "main.js": "/static/js/main.77d4e9b6.js",
+    "static/js/787.c4ab1725.chunk.js": "/static/js/787.c4ab1725.chunk.js",
+    "static/media/splashwallpaper.jpg": "/static/media/splashwallpaper.c958e70d084f586a7dbf.jpg",
+    "static/media/splash2.jpg": "/static/media/splash2.29db958d1ca3a1b127ba.jpg",
+    "index.html": "/index.html",
+    "main.f52da710.css.map": "/static/css/main.f52da710.css.map",
+    "main.77d4e9b6.js.map": "/static/js/main.77d4e9b6.js.map",
+    "787.c4ab1725.chunk.js.map": "/static/js/787.c4ab1725.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e04d67fa.css",
-    "static/js/main.30c4f376.js"
+    "static/css/main.f52da710.css",
+    "static/js/main.77d4e9b6.js"
   ]
 }
